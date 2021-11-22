@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.exe
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.deps.json
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.runtimeconfig.json
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.dll
+C:\Users\Designer\source\repos\Invertir 3 Numeros\bin\Debug\netcoreapp3.1\Invertir 3 Numeros.pdb
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.AssemblyInfo.cs
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.dll
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.pdb
+C:\Users\Designer\source\repos\Invertir 3 Numeros\obj\Debug\netcoreapp3.1\Invertir 3 Numeros.genruntimeconfig.cache

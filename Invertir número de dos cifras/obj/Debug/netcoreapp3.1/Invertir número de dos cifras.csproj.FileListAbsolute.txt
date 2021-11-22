@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.AssemblyInfo.cs
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.exe
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.deps.json
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.runtimeconfig.json
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.dll
+C:\Users\Designer\source\repos\Invertir número de dos cifras\bin\Debug\netcoreapp3.1\Invertir número de dos cifras.pdb
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.dll
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.pdb
+C:\Users\Designer\source\repos\Invertir número de dos cifras\obj\Debug\netcoreapp3.1\Invertir número de dos cifras.genruntimeconfig.cache

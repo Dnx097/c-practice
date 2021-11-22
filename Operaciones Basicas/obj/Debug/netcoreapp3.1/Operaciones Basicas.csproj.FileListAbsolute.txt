@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.exe
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.deps.json
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.runtimeconfig.json
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.dll
+C:\Users\Designer\source\repos\Operaciones Basicas\bin\Debug\netcoreapp3.1\Operaciones Basicas.pdb
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.AssemblyInfo.cs
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.dll
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.pdb
+C:\Users\Designer\source\repos\Operaciones Basicas\obj\Debug\netcoreapp3.1\Operaciones Basicas.genruntimeconfig.cache
