@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.exe
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.deps.json
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.runtimeconfig.json
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.dll
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\bin\Debug\netcoreapp3.1\NUMERO INTERMEDIO.pdb
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.AssemblyInfo.cs
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.dll
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.pdb
+C:\Users\Designer\source\repos\NUMERO INTERMEDIO\obj\Debug\netcoreapp3.1\NUMERO INTERMEDIO.genruntimeconfig.cache

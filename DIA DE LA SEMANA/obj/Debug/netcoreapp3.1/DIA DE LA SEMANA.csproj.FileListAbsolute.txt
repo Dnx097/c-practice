@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.exe
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.deps.json
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.runtimeconfig.json
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.dll
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\bin\Debug\netcoreapp3.1\DIA DE LA SEMANA.pdb
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.AssemblyInfo.cs
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.dll
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.pdb
+C:\Users\Designer\source\repos\DIA DE LA SEMANA\obj\Debug\netcoreapp3.1\DIA DE LA SEMANA.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.exe
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.deps.json
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.runtimeconfig.json
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.dll
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\bin\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.pdb
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.AssemblyInfo.cs
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.dll
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.pdb
+C:\Users\Designer\source\repos\CALIFICACIONES DE UN GUPO DE ESTUDIANTES\obj\Debug\netcoreapp3.1\CALIFICACIONES DE UN GUPO DE ESTUDIANTES.genruntimeconfig.cache

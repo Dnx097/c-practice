@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.exe
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.deps.json
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.runtimeconfig.json
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.dll
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\bin\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.pdb
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.AssemblyInfo.cs
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.dll
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.pdb
+C:\Users\Designer\source\repos\DESGLOSE DE BILLETES\obj\Debug\netcoreapp3.1\DESGLOSE DE BILLETES.genruntimeconfig.cache

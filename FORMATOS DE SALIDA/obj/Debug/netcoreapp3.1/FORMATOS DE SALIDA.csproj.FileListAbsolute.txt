@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.exe
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.deps.json
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.runtimeconfig.json
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.dll
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\bin\Debug\netcoreapp3.1\FORMATOS DE SALIDA.pdb
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.AssemblyInfo.cs
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.dll
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.pdb
+C:\Users\Designer\source\repos\FORMATOS DE SALIDA\obj\Debug\netcoreapp3.1\FORMATOS DE SALIDA.genruntimeconfig.cache

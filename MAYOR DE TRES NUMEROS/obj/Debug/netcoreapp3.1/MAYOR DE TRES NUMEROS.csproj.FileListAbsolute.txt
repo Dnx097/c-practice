@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.AssemblyInfo.cs
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.exe
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.deps.json
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.runtimeconfig.json
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.dll
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.pdb
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.dll
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.pdb
+C:\Users\Designer\source\repos\MAYOR DE TRES NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE TRES NUMEROS.genruntimeconfig.cache

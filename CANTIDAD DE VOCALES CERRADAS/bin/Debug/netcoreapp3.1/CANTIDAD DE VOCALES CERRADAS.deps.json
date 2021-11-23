@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CANTIDAD DE VOCALES CERRADAS/1.0.0": {
+        "runtime": {
+          "CANTIDAD DE VOCALES CERRADAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CANTIDAD DE VOCALES CERRADAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

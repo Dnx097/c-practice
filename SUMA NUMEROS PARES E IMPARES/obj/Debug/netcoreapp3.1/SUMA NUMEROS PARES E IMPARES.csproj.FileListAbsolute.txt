@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.exe
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.deps.json
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.runtimeconfig.json
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.dll
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\bin\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.pdb
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.AssemblyInfo.cs
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.dll
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.pdb
+C:\Users\Designer\source\repos\SUMA NUMEROS PARES E IMPARES\obj\Debug\netcoreapp3.1\SUMA NUMEROS PARES E IMPARES.genruntimeconfig.cache

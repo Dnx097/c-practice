@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.exe
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.deps.json
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.runtimeconfig.json
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.dll
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.pdb
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.AssemblyInfo.cs
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.dll
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.pdb
+C:\Users\Designer\source\repos\FACTORIAL DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORIAL DE UN NUMERO.genruntimeconfig.cache

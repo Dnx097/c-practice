@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.exe
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.deps.json
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.runtimeconfig.json
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.dll
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\bin\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.pdb
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.AssemblyInfo.cs
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.dll
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.pdb
+C:\Users\Designer\source\repos\CANTIDAD DE VOCALES CERRADAS\obj\Debug\netcoreapp3.1\CANTIDAD DE VOCALES CERRADAS.genruntimeconfig.cache

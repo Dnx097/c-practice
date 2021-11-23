@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.exe
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.deps.json
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.runtimeconfig.json
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.dll
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\bin\Debug\netcoreapp3.1\SUMA DE N NUMEROS.pdb
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.AssemblyInfo.cs
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.dll
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.pdb
+C:\Users\Designer\source\repos\SUMA DE N NUMEROS\obj\Debug\netcoreapp3.1\SUMA DE N NUMEROS.genruntimeconfig.cache

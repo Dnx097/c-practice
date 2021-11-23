@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.exe
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.deps.json
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.runtimeconfig.json
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.dll
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\bin\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.pdb
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.AssemblyInfo.cs
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.dll
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.pdb
+C:\Users\Designer\source\repos\ESTADISTICA POR VOCAL\obj\Debug\netcoreapp3.1\ESTADISTICA POR VOCAL.genruntimeconfig.cache

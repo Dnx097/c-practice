@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.exe
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.deps.json
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.runtimeconfig.json
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.dll
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\bin\Debug\netcoreapp3.1\SERIE DE FIBONACCI.pdb
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.AssemblyInfo.cs
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.dll
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.pdb
+C:\Users\Designer\source\repos\SERIE DE FIBONACCI\obj\Debug\netcoreapp3.1\SERIE DE FIBONACCI.genruntimeconfig.cache

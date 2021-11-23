@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.exe
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.deps.json
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.runtimeconfig.json
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.dll
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\bin\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.pdb
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.AssemblyInfo.cs
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.dll
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.pdb
+C:\Users\Designer\source\repos\NUMEROS ALEATORIOS Y CARACTERES ASCII\obj\Debug\netcoreapp3.1\NUMEROS ALEATORIOS Y CARACTERES ASCII.genruntimeconfig.cache

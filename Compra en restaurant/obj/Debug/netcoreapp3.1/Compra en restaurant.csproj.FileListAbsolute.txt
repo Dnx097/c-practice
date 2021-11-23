@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.exe
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.deps.json
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.runtimeconfig.json
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.dll
+C:\Users\Designer\source\repos\Compra en restaurant\bin\Debug\netcoreapp3.1\Compra en restaurant.pdb
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.AssemblyInfo.cs
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.dll
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.pdb
+C:\Users\Designer\source\repos\Compra en restaurant\obj\Debug\netcoreapp3.1\Compra en restaurant.genruntimeconfig.cache

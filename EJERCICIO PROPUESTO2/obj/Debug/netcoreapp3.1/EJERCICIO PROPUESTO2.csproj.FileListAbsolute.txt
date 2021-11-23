@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.exe
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.deps.json
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.runtimeconfig.json
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.dll
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.pdb
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.AssemblyInfo.cs
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.dll
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.pdb
+C:\Users\Designer\source\repos\EJERCICIO PROPUESTO2\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTO2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.AssemblyInfo.cs
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.exe
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.deps.json
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.runtimeconfig.json
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.dll
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\bin\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.pdb
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.dll
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.pdb
+C:\Users\Designer\source\repos\TABLAS DE MULTIPLICAR\obj\Debug\netcoreapp3.1\TABLAS DE MULTIPLICAR.genruntimeconfig.cache

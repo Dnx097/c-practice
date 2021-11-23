@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.exe
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.deps.json
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.runtimeconfig.json
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.dll
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\bin\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.pdb
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.AssemblyInfo.cs
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.dll
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.pdb
+C:\Users\Designer\source\repos\BONO DEL EMPLEADO POR HIJO\obj\Debug\netcoreapp3.1\BONO DEL EMPLEADO POR HIJO.genruntimeconfig.cache

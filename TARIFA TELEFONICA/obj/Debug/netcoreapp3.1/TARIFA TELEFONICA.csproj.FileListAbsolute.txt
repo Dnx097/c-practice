@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.exe
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.deps.json
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.runtimeconfig.json
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.dll
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\bin\Debug\netcoreapp3.1\TARIFA TELEFONICA.pdb
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.AssemblyInfo.cs
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.dll
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.pdb
+C:\Users\Designer\source\repos\TARIFA TELEFONICA\obj\Debug\netcoreapp3.1\TARIFA TELEFONICA.genruntimeconfig.cache

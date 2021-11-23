@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.exe
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.deps.json
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.runtimeconfig.json
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.dll
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\bin\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.pdb
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.AssemblyInfo.cs
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.dll
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.pdb
+C:\Users\Designer\source\repos\MAYOR DE DOS NUMEROS\obj\Debug\netcoreapp3.1\MAYOR DE DOS NUMEROS.genruntimeconfig.cache

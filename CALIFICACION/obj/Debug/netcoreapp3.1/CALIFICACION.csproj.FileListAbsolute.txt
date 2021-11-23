@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.exe
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.deps.json
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.runtimeconfig.json
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.dll
+C:\Users\Designer\source\repos\CALIFICACION\bin\Debug\netcoreapp3.1\CALIFICACION.pdb
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.AssemblyInfo.cs
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.dll
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.pdb
+C:\Users\Designer\source\repos\CALIFICACION\obj\Debug\netcoreapp3.1\CALIFICACION.genruntimeconfig.cache

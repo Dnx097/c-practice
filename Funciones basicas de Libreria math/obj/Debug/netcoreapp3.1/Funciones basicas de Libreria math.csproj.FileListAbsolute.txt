@@ -1,0 +1,14 @@
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.exe
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.deps.json
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.runtimeconfig.json
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.dll
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\bin\Debug\netcoreapp3.1\Funciones basicas de Libreria math.pdb
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.AssemblyInfo.cs
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.dll
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.pdb
+C:\Users\Designer\source\repos\Funciones basicas de Libreria math\obj\Debug\netcoreapp3.1\Funciones basicas de Libreria math.genruntimeconfig.cache

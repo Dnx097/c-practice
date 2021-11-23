@@ -1,0 +1,13 @@
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.exe
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.deps.json
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.runtimeconfig.json
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.runtimeconfig.dev.json
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.dll
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\bin\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.pdb
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.AssemblyInfo.cs
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.dll
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.pdb
+C:\Users\Designer\source\repos\PRESUPUESTO ANUAL EN AREAS HOSPITAL\obj\Debug\netcoreapp3.1\PRESUPUESTO ANUAL EN AREAS HOSPITAL.genruntimeconfig.cache
