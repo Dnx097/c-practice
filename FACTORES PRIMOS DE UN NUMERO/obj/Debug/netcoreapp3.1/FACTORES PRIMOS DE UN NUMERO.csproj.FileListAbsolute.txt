@@ -1,0 +1,13 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\bin\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\FACTORES PRIMOS DE UN NUMERO\obj\Debug\netcoreapp3.1\FACTORES PRIMOS DE UN NUMERO.genruntimeconfig.cache

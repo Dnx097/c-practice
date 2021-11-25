@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SUCESION DE N CUADROS/1.0.0": {
+        "runtime": {
+          "SUCESION DE N CUADROS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SUCESION DE N CUADROS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

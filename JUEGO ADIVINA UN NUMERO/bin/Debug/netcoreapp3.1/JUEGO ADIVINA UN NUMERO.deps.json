@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JUEGO ADIVINA UN NUMERO/1.0.0": {
+        "runtime": {
+          "JUEGO ADIVINA UN NUMERO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JUEGO ADIVINA UN NUMERO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

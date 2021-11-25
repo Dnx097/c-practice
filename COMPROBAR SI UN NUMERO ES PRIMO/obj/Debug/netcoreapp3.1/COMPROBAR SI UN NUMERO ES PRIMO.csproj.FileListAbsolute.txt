@@ -1,0 +1,13 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\bin\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\COMPROBAR SI UN NUMERO ES PRIMO\obj\Debug\netcoreapp3.1\COMPROBAR SI UN NUMERO ES PRIMO.genruntimeconfig.cache

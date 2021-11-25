@@ -1,0 +1,14 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\bin\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.csproj.AssemblyReference.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\CONTROL DE UNA FACTURA\obj\Debug\netcoreapp3.1\CONTROL DE UNA FACTURA.genruntimeconfig.cache

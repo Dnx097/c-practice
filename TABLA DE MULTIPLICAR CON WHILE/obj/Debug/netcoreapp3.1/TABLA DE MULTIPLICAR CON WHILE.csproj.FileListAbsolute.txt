@@ -1,0 +1,13 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\bin\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\TABLA DE MULTIPLICAR CON WHILE\obj\Debug\netcoreapp3.1\TABLA DE MULTIPLICAR CON WHILE.genruntimeconfig.cache

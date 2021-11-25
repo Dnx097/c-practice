@@ -1,0 +1,14 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\bin\Debug\netcoreapp3.1\SUCESION DE N CUADROS.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.csproj.AssemblyReference.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SUCESION DE N CUADROS\obj\Debug\netcoreapp3.1\SUCESION DE N CUADROS.genruntimeconfig.cache

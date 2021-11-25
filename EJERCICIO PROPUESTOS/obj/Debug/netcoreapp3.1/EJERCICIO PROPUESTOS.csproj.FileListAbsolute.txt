@@ -1,0 +1,13 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\bin\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\EJERCICIO PROPUESTOS\obj\Debug\netcoreapp3.1\EJERCICIO PROPUESTOS.genruntimeconfig.cache

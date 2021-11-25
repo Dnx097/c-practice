@@ -1,0 +1,14 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\bin\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.csproj.AssemblyReference.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\VOTACIONES POR SECTOR\obj\Debug\netcoreapp3.1\VOTACIONES POR SECTOR.genruntimeconfig.cache

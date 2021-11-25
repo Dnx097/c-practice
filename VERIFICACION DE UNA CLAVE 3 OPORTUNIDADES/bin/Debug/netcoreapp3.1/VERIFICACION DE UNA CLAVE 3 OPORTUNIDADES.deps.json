@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VERIFICACION DE UNA CLAVE 3 OPORTUNIDADES/1.0.0": {
+        "runtime": {
+          "VERIFICACION DE UNA CLAVE 3 OPORTUNIDADES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VERIFICACION DE UNA CLAVE 3 OPORTUNIDADES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

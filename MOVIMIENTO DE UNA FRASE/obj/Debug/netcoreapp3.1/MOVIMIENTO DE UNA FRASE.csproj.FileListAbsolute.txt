@@ -1,0 +1,13 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\bin\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\MOVIMIENTO DE UNA FRASE\obj\Debug\netcoreapp3.1\MOVIMIENTO DE UNA FRASE.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\bin\Debug\netcoreapp3.1\SERIE DE UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.csproj.AssemblyReference.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\SERIE DE UN NUMERO\obj\Debug\netcoreapp3.1\SERIE DE UN NUMERO.genruntimeconfig.cache

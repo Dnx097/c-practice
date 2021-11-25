@@ -1,0 +1,14 @@
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.exe
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.deps.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.runtimeconfig.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.runtimeconfig.dev.json
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\bin\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.csproj.AssemblyReference.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.AssemblyInfo.cs
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.dll
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.pdb
+C:\Users\Designer\Documents\EJERCICIOS DE C#\JUEGO ADIVINA UN NUMERO\obj\Debug\netcoreapp3.1\JUEGO ADIVINA UN NUMERO.genruntimeconfig.cache
